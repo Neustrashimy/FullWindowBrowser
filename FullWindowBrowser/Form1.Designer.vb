@@ -33,7 +33,7 @@ Partial Class MainForm
         Me.WebBrowser1.Name = "WebBrowser1"
         Me.WebBrowser1.Size = New System.Drawing.Size(640, 480)
         Me.WebBrowser1.TabIndex = 0
-        Me.WebBrowser1.Url = New System.Uri("http://www.google.co.jp", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("https://nagoyadon.jp/", System.UriKind.Absolute)
         '
         'MainForm
         '
